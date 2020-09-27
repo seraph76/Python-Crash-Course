@@ -1,11 +1,10 @@
-<h2 id="foo"> Solutions - Chapter 2 </h2> 
+<h2 id="foo">Chapter 2 - Solutions</h2> 
 
 > ## 2-1. Simple Message: 
 > Store a message in a variable, and then print that message.
 
 ```python
 def simple_message():
-    """Returns a simple message."""
     return 'Hello World!'
 
 
@@ -27,7 +26,6 @@ Hello World!
 
 ```python
 def simple_messages():
-    """ Stores a variable, changes it, and returns a simple message."""
     message = "Hello World!"
     print(f"1st message: {message}!")
     message = "Good bye World!!"
