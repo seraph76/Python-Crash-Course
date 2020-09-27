@@ -1,4 +1,4 @@
-<h2 id="foo"> Solutions - Chapter 2</h2> 
+<h2 id="foo>Solutions - Chapter 2</h2> 
 
 > ## 2-1. Simple Message: 
 > Store a message in a variable, and then print that message.
@@ -44,7 +44,7 @@ print(simple_messages())
 Hello World!
 Good bye World!!
 ```
-[(top)]()
+[(top)](#foo)
 
 > ## 2-3. Personal Message: 
 > Store a person’s name in a variable, and print a mes-sage to that person.
