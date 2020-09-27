@@ -17,7 +17,7 @@ print(simple_message())
 Hello World!
 ```
 
-[(top)]()
+[(top)](#solutions---chapter-2)
 
 
 > ## 2-2. Simple Messages:
