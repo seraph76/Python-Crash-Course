@@ -3,6 +3,9 @@
 > ## 2-1. Simple Message: 
 > Store a message in a variable, and then print that message.
 
+<details>
+<summary>Click to see Solution</summary>
+
 ```python
 def simple_message():
     return 'Hello World!'
@@ -10,6 +13,9 @@ def simple_message():
 
 print(simple_message())
 ```
+
+</details>
+
 **Output:**
 
 ```
@@ -23,6 +29,9 @@ Hello World!
 > Store a message in a variable, and print that message.
 > Then change the value of your variable to a new message, and print the new message.
 
+<details>
+<summary>Click to see Solution</summary>
+
 
 ```python
 def simple_messages():
@@ -35,6 +44,7 @@ def simple_messages():
 print(simple_messages())
 ```
 
+</details>
 
 **Output:**
 
