@@ -1,6 +1,6 @@
 # Python Crash Course
 
-![logo](https://studyfrnd.com/wp-content/uploads/2020/01/Crash-course-python-pdf.jpg)
+![logo](https://images-na.ssl-images-amazon.com/images/I/81e2NRcKbxL.jpg)
 
 ## TIY Exercises Solutions 
 
