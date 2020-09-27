@@ -1,8 +1,6 @@
-# Python Crash Course
-
 ![logo](https://studyfrnd.com/wp-content/uploads/2020/01/Crash-course-python-pdf.jpg)
 
-## TIY Exercises Solutions 
+## Exercises Solutions 
 
 This is a collection of my own solutions to the **Try it Yourself** exercises from _Python Crash Course_ 2nd Edition by Eric Matthes. 
 
