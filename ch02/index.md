@@ -1,5 +1,7 @@
 <h2 id="foo">Chapter 2 - Solutions</h2> 
 
+[Home](https://github.com/seraph76/Python-Crash-Course)
+
 > ## 2-1. Simple Message: 
 > Store a message in a variable, and then print that message.
 
