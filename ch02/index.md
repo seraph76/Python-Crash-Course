@@ -14,13 +14,13 @@ def simple_message():
 print(simple_message())
 ```
 
-</details>
-
 **Output:**
 
 ```
 Hello World!
 ```
+
+</details>
 
 [(top)](#foo)
 
@@ -45,14 +45,15 @@ def simple_messages():
 print(simple_messages())
 ```
 
-</details>
-
 **Output:**
 
 ```
 Hello World!
 Good bye World!!
 ```
+</details>
+
+
 [(top)](#foo)
 
 ---
