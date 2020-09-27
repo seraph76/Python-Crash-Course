@@ -1,4 +1,4 @@
-<h2 id="foo>Solutions - Chapter 2</h2> 
+<h2 id="foo"> Solutions - Chapter 2 </h2> 
 
 > ## 2-1. Simple Message: 
 > Store a message in a variable, and then print that message.
