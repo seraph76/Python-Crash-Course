@@ -24,6 +24,7 @@ Hello World!
 
 [(top)](#foo)
 
+---
 
 > ## 2-2. Simple Messages:
 > Store a message in a variable, and print that message.
@@ -53,6 +54,7 @@ Hello World!
 Good bye World!!
 ```
 [(top)](#foo)
+---
 
 > ## 2-3. Personal Message: 
 > Store a person’s name in a variable, and print a mes-sage to that person.
